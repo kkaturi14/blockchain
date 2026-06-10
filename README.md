@@ -34,4 +34,4 @@ npm run dev
 ## 배포
 
 - GitHub: https://github.com/kkaturi14/blockchain
-- Vercel: 배포 후 주소 업데이트 예정
+- Vercel: https://blockchain-nine-gold.vercel.app/
